@@ -1,4 +1,4 @@
-<img sre "https://media.licdn.com/dms/image/v2/D5616AQFZk3BuqJBUvQ/profile-displaybackgroundimage-shrink_350_1400/B56ZpAqEhxIsAY-/0/1762021362723?e=1764201600&v=beta&t=zK5V1S0mYJ3L6122ZV0YBeIE8MGBEx7zRGjM1n4-zQI">
+<img src "https://media.licdn.com/dms/image/v2/D5616AQFZk3BuqJBUvQ/profile-displaybackgroundimage-shrink_350_1400/B56ZpAqEhxIsAY-/0/1762021362723?e=1764201600&v=beta&t=zK5V1S0mYJ3L6122ZV0YBeIE8MGBEx7zRGjM1n4-zQI">
 <h3 align="center">Modern and professional Web Developer & Wordpress Design enthusiast | Helping passionate founders and creators build beautiful, easy-to-use websites | Shaping future for next generation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsalau&label=Profile%20views&color=0e75b6&style=flat" alt="devsalau" /> </p>
