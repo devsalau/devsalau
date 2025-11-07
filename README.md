@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Sala Uddin</h1>
-<h3 align="center">A pasModern and professional Web Developer & Wordpress Design enthusiast | Helping passionate founders and creators build beautiful, easy-to-use websites | Shaping future for next generation.sionate frontend developer from India</h3>
+<h3 align="center">Modern and professional Web Developer & Wordpress Design enthusiast | Helping passionate founders and creators build beautiful, easy-to-use websites | Shaping future for next generation.sionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsalau&label=Profile%20views&color=0e75b6&style=flat" alt="devsalau" /> </p>
 
