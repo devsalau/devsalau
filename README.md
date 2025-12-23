@@ -1,4 +1,4 @@
-<img src ="https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/572096057_122167434416587679_904684548909442487_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeH6bepZ8dcIy40IbQT-KLQk4QfZnwOH64XhB9mfA4frhbKWTmmle4QOGvkMxq-HeVKNwj46D7Eb1snI9kgUTnWR&_nc_ohc=_9povdxbLlwQ7kNvwEsf71G&_nc_oc=AdljPgImBz1rDAT3NuM2a2yseGGnlVN9FFqZl_KQD_SPOR95VlPCICRcgLU0eFb0vAw&_nc_zt=23&_nc_ht=scontent.fdac19-1.fna&_nc_gid=TvJdsfgSuRMe6JVcfi9lZg&oh=00_AfizietnM7MnxpM7Va4q4lpArwooEjqAk_k2P8AHUYXwww&oe=69324FD5">
+<img src ="https://avatars.githubusercontent.com/u/242647015?v=4">
 <h3 align="center">Modern and professional Web Developer & Wordpress Design enthusiast | Helping passionate founders and creators build beautiful, easy-to-use websites | Shaping future for next generation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsalau&label=Profile%20views&color=0e75b6&style=flat" alt="devsalau" /> </p>
